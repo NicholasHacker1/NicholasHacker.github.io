@@ -13,10 +13,10 @@ title                    : "Nicholas Hacker / Research Portfolio"
 title_separator          : "-"
 name                     : &name "Nicholas Hacker"
 description              : &description "Nicholas Hacker's academic portfolio, including current research and published work."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://NicholasHacker.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://nicholashacker1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NicholasHacker1/NicholasHacker.github.io"
+repository               : "NicholasHacker1/nicholashacker1.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
